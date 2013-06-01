@@ -1,7 +1,7 @@
 Description
 ===========
 
-Here's some desc.
+Here's some desc.  And some more.
 
 Attributes
 ==========
